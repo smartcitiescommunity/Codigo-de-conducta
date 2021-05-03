@@ -1,4 +1,4 @@
-# Cédigo de conducta
+# Código de conducta
 Código de Conducta en Smart Cities Community
 Inspirado en [COA](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-es.md)
 
