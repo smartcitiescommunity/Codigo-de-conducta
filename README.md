@@ -14,7 +14,7 @@ La comunidad de "Smart Cities Community" espera que las actividades y eventos de
 - Que no se asuma que todos los participantes tienen o entienden el mismo contexto y se promueva discusión y preguntas.
 - Que se encuentre alguna manera para que la persona sea productiva usando sus destrezas, sean estas técnicas o no, y con su energía. Se recomienda utilizar lenguaje positivo.
 - Que se promueva a sus miembros a escuchar al igual que hablan.
-- Afanarse a crear herramientas que son abiertas y libres para uso público. Se le dará prioridad a actividades que promuevan el uso público de estas herramientas y tecnologías; no al lucro propio.
+- Promovemos el crear herramientas que son abiertas y libres para uso público. Priorizamos las a actividades que promuevan el uso público de estas herramientas y tecnologías; no al lucro propio.
 - Se le dará prioridad de acceso y aportación a personas que tradicionalmente están excluidas del proceso cívico.
 - Asegurar que toda la comunidad esté representada en la planificación, diseño y la implementación de cualquier tecnología cívica. Esto incluye la participación de mujeres, minorías y grupos que tradicionalmente han sido marginados.
 - Activamente involucrar grupos comunitarios y aquellos que tienen experiencia en el tema y en el proceso de toma de decisiones.
